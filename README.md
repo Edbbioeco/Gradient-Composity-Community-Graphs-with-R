@@ -1,1 +1,1 @@
-# Gradient-Composity-Community-Graphs-with-R
+# Gradient Composity Community Graphs with R
